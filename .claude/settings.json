@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make:*)",
+      "Bash(make build:*)",
+      "Bash(make run:*)",
+      "Bash(make test:*)",
+      "Bash(make lint:*)",
+      "Bash(make install:*)",
+      "Bash(make clean:*)"
+    ]
+  }
+}
