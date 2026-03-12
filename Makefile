@@ -22,4 +22,4 @@ clean:
 	rm -f $(BINARY)
 
 copy:
-	cp $(BINARY) $(HOME)/bin/
+	cp $(BINARY) $(HOME)/.local/bin/
